@@ -6,7 +6,7 @@ items:
  - fatih/vim-go
  - ssg/streetcoder
  - ahmetb/kubectx
- - eser/laroux.js
+ - eser/laroux
  - f/vue-wait
  - joom/hezarfen
  - jbytecode/LinRegOutliers
